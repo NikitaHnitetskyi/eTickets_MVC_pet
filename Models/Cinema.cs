@@ -12,10 +12,16 @@ namespace eTickets.Models
         public int Id { get; set; }
 
         [Display(Name = "Cinema logo")]
+        [Required(ErrorMessage = "Profile logo is required")]
         public string Logo { get; set; }
+
         [Display(Name = "Cinema Name")]
+        [Required(ErrorMessage = "Profile name is required")]
+        [StringLength(50, MinimumLength = 3, ErrorMessage = "Full Name must be between 3 and 50 chars")]
         public string Name { get; set; }
+
         [Display(Name = "Cinema description")]
+        [Required(ErrorMessage = "Profile description is required")]
         public string Description { get; set; }
 
         //Reletionship
