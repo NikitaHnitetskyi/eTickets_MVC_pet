@@ -6127,11 +6127,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Viktoriya\\Desktop\\Hillel\\eTickets\\eTickets\\eTickets.csproj",
+      "projectUniqueName": "C:\\Users\\Viktoriya\\Desktop\\Projects\\eTickets\\eTickets\\eTickets.csproj",
       "projectName": "eTickets",
-      "projectPath": "C:\\Users\\Viktoriya\\Desktop\\Hillel\\eTickets\\eTickets\\eTickets.csproj",
+      "projectPath": "C:\\Users\\Viktoriya\\Desktop\\Projects\\eTickets\\eTickets\\eTickets.csproj",
       "packagesPath": "C:\\Users\\Viktoriya\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Viktoriya\\Desktop\\Hillel\\eTickets\\eTickets\\obj\\",
+      "outputPath": "C:\\Users\\Viktoriya\\Desktop\\Projects\\eTickets\\eTickets\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Viktoriya\\AppData\\Roaming\\NuGet\\NuGet.Config",

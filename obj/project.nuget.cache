@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VynJv+J6O/sNR0CzisCqmKKHlhr3VaeHiNxZMW8J01YNYZR6HxN7dMxzGUN1Y1BupjpBn5DfHThbR1sA2pIW0g==",
+  "dgSpecHash": "XASFbzbP1IQtMp2jrf6Kl93bVkSzZQI2NezdJt9oTJzxkOWgEq1QnpaJgvF7MiVQac/0ILAsrw01REiH8ffoZQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Viktoriya\\Desktop\\Hillel\\eTickets\\eTickets\\eTickets.csproj",
+  "projectFilePath": "C:\\Users\\Viktoriya\\Desktop\\Projects\\eTickets\\eTickets\\eTickets.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Viktoriya\\.nuget\\packages\\documentformat.openxml\\2.20.0\\documentformat.openxml.2.20.0.nupkg.sha512",
     "C:\\Users\\Viktoriya\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
